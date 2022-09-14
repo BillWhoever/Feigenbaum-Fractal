@@ -1,12 +1,12 @@
 the lines you can change without breaking the program are the following:
 
-15	const double exp_r_f = 1.2;
-16	const int exp_r = 10;
-17	const int mmc = 80;
-18	const int nos = 1000;
-19	const int iss = 1000;
+13	const double exp_r_f = 1.2;
+14	const int exp_r = 10;
+15	const int mmc = 80;
+16	const int nos = 1000;
+17	const int iss = 1000;
 
-21	int size_x=1920, size_y=1020;
+19	int size_x=1920, size_y=1020;
 
 23	long double scale = 1000;
 24	long double cntr_x=1, cntr_y=0.55;
