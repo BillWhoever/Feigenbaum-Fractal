@@ -27,7 +27,7 @@ The axis are not rendered, keep that in mind. You need to know this specific fra
 One "image_product.bmp" file is created and re-writen holding the latest rendered image in raw form.
 
 HOW TO MOVE:
-Use the numpad numbers as arrows (8 is up, 6 is left, 1 is down left ect) and + - for zooming.
+Use the numpad numbers as arrows (8 is up, 6 is right, 1 is down left ect) and + - for zooming.
 You need the NumLock enabled on your keyboard for this to work and have to have the console window sellected 
 to type the mentioned numbers-symbols and press enter.
 Very demanding settings might make the scene take too long to render so for fun exploration use the already set values.
