@@ -28,7 +28,6 @@ int main(){
 	const unsigned char white[] = { 255 };
 	const unsigned char black[] = { 0 };	
 	unsigned char temp_color[1];
-	const unsigned char* col = white;
 	CImg<unsigned char> bg(size_x,size_y,1,1,255);
 	bg.draw_rectangle(0,0,size_x,size_y,black);
 	CImgDisplay dsp(size_x,size_y,"Graph Display",0);
