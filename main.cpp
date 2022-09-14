@@ -1,8 +1,6 @@
 #include <iostream>
 #include "CImg.h"
 #include <math.h>
-#include <fstream>
-#include <bitset>
 
 using namespace std;
 using namespace cimg_library;
