@@ -8,8 +8,8 @@ the lines you can change without breaking the program are the following:
 
 21	int size_x=1920, size_y=1020;
 
-25	long double scale = 1000;
-26	long double cntr_x=1, cntr_y=0.55;
+23	long double scale = 1000;
+24	long double cntr_x=1, cntr_y=0.55;
 
 The program works by scanning every vertical line of the display.
 For each of them the z=z*temp_x*(1-z) is run for iss initial times, z is initialy set to 0.5.
